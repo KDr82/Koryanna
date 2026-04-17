@@ -316,13 +316,13 @@ class JavaFooter extends HTMLElement {
             <div class="footer__md">
                 <div class="footer__disclaimer"><a href="https://koriana.neocities.org/disclaimer.html">Disclaimer</a></div>
                 <div class="footer__visuals">
-                    <div class="footer__logo"><img src="img/footer__logo.webp"></div>
-                    <div class="footer__logo__s"><img src="img/footer__logo__s.webp"></div>
-                    <div class="footer__dataport"><img src="img/footer__dataport__l.webp"></div>
-                    <div class="footer__dataport__s"><img src="img/footer__dataport__s.webp"></img></div>
-                    <div class="footer__dataport__ss"><img src="img/footer__dataport__ss.webp"></img></div>
-                    <div class="footer__btns"><img src="img/footer__buttons.webp"></div>
-                    <div class="footer__btn"><img src="img/footer__button.webp"></div>
+                    <div class="footer__logo"><img src="https://koriana.neocities.org/img/footer__logo.webp"></div>
+                    <div class="footer__logo__s"><img src="https://koriana.neocities.org/img/footer__logo__s.webp"></div>
+                    <div class="footer__dataport"><img src="https://koriana.neocities.org/img/footer__dataport__l.webp"></div>
+                    <div class="footer__dataport__s"><img src="https://koriana.neocities.org/img/footer__dataport__s.webp"></img></div>
+                    <div class="footer__dataport__ss"><img src="https://koriana.neocities.org/img/footer__dataport__ss.webp"></img></div>
+                    <div class="footer__btns"><img src="https://koriana.neocities.org/img/footer__buttons.webp"></div>
+                    <div class="footer__btn"><img src="https://koriana.neocities.org/img/footer__button.webp"></div>
                 </div>
             </div>
             <div class="footer__rt"></div>
@@ -344,13 +344,13 @@ class JavaFooterone extends HTMLElement {
             <div class="footer__md">
                 <div class="footer__disclaimer"><a href="https://koriana.neocities.org/disclaimer.html">Disclaimer</a></div>
                 <div class="footer__visuals">
-                    <div class="footer__logo"><img src="/img/footer__logo.webp"></div>
-                    <div class="footer__logo__s"><img src="/img/footer__logo__s.webp"></div>
-                    <div class="footer__dataport"><img src="/img/footer__dataport__l.webp"></div>
-                    <div class="footer__dataport__s"><img src="/img/footer__dataport__s.webp"></img></div>
-                    <div class="footer__dataport__ss"><img src="/img/footer__dataport__ss.webp"></img></div>
-                    <div class="footer__btns"><img src="/img/footer__buttons.webp"></div>
-                    <div class="footer__btn"><img src="/img/footer__button.webp"></div>
+                    <div class="footer__logo"><img src="https://koriana.neocities.org//img/footer__logo.webp"></div>
+                    <div class="footer__logo__s"><img src="https://koriana.neocities.org//img/footer__logo__s.webp"></div>
+                    <div class="footer__dataport"><img src="https://koriana.neocities.org//img/footer__dataport__l.webp"></div>
+                    <div class="footer__dataport__s"><img src="https://koriana.neocities.org//img/footer__dataport__s.webp"></img></div>
+                    <div class="footer__dataport__ss"><img src="https://koriana.neocities.org//img/footer__dataport__ss.webp"></img></div>
+                    <div class="footer__btns"><img src="https://koriana.neocities.org//img/footer__buttons.webp"></div>
+                    <div class="footer__btn"><img src="https://koriana.neocities.org//img/footer__button.webp"></div>
                 </div>
             </div>
             <div class="footer__rt"></div>
