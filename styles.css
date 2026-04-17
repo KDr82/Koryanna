@@ -186,7 +186,7 @@ body._lock {
     border-top: 1px solid rgba(0, 0, 0, 0.12);
 }
 .button__menu {
-    -webkit-appearance: none;
+    --webkit-appearance: none;
     appearance: none;
     position: relative;
     border-width: 0;
