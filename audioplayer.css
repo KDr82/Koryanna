@@ -120,7 +120,7 @@
       margin: 20px 0;
     }
 
-button {
+.controls button {
       background: #ff4d4d;
       color: white;
       border: none;
@@ -132,7 +132,7 @@ button {
       transition: 0.3s;
     }
 
-button:hover {
+.controls button:hover {
       transform: scale(1.1);
       background: #ff6666;
     }
