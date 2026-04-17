@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Корианская империя. Раздел сайта со ссылками на клубный форум и социальные сети">
+    <title>Сообщество | Корианская Империя</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="druckerei.css">
+    <link rel="icon" type="image/png" href="img/favicon.png">
+</head>
+<body>
+    <div class="wrapper">
+        <templ-header></templ-header>
+        <main class="page">
+            <div class="page__screen">
+                <img src="img/bezel_text.png" id="bezel" class="noselect">
+                <div class="page__scanlines"></div>
+                <div class="page__bezel"></div>
+                <div class="page__flimsi">
+                    <section class="page__section">
+                        <div class="page__section__body">
+                            <h1 class="page__title">Сообщество<br></h1>
+                            <div class="datapad__content">
+                                <div class="page__datapad">
+                                    <div class="datapad__frame"><img src="img/rfs__datapad.webp" alt="Datapad"></div>
+                                    <div class="datapad__background"><img src="img/datapad_background.webp" id="slider"></div>
+                                </div>
+                                <div class="page__section__background">
+                                    <div class="datapad__menu">
+                                        <button onclick="document.location='#'" class="datapad__btn" onmouseenter="changeImg('img/fm_forum.webp')">Forum</button>
+                                        <button onclick="document.location='links.html'" class="datapad__btn" onmouseenter="changeImg('img/fm_links.webp')">Nexus</button>
+                                    </div>
+                                    <div class="datapad__menu__mobile">
+                                        <button onclick="document.location='#'" class="datapad__btn">Forum</button>
+                                        <button onclick="document.location='links.html'" class="datapad__btn">Nexus</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="page__text">
+                                <p><span></span></p>
+                                <p>Приветствую, джентельство! Вижу, вы уже неплохо освоились. Довелось ли вам полюбоваться достопримечательностями нашей прекрасной столицы — подлинной сокровищницы культуры Центральных Миров? Убедились ли вы в мощи, величии и незыблемости Нового Порядка? Сказать по правде, удивлен, что вы всё еще живы... но неважно. Отсюда вы можете прогуляться к южным вратам старого города, где расположены Дворцовый сад и Старый форум, чтобы оставить сообщение в общественном терминале или прочесть сообщения других гостей столицы. Либо вы можете сесть на магнитоплан, который за считанные минуты домчит вас до космопорта Корборо-2, откуда совершаются регулярные рейсы к Рескорду и внешним системам. Так или иначе, я не прощаюсь с вами, джентельство.</p>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </main>
+        <templ-footer></templ-footer>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Корианская империя. Раздел Культура. Ссылки на библиотеку сайта и галерею">
+    <title>Культура | Корианская Империя</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="druckerei.css">
+    <link rel="icon" type="image/png" href="img/favicon.png">
+</head>
+<body>
+    <div class="wrapper">
+        <templ-header></templ-header>
+        <main class="page">
+            <div class="page__screen">
+                <img src="img/bezel_text.png" id="bezel" class="noselect">
+                <div class="page__scanlines"></div>
+                <div class="page__bezel"></div>
+                <div class="page__flimsi">
+                    <section class="page__section">
+                        <div class="page__section__body">
+                            <h1 class="page__title">Культура<br></h1>
+                            <div class="datapad__content">
+                                <div class="page__datapad">
+                                    <div class="datapad__frame"><img src="img/rfs__datapad.webp" alt="Datapad"></div>
+                                    <div class="datapad__background"><img src="img/datapad_background.webp" id="slider"></div>
+                                </div>
+                                <div class="page__section__background">
+                                    <div class="datapad__menu">
+                                        <button onclick="document.location='librarium/index.html'" class="datapad__btn" onmouseenter="changeImg('img/fm_library.webp')">Librarium</button>
+                                        <button onclick="document.location='phonotheca/index.html'" class="datapad__btn" onmouseenter="changeImg('img/fm_music.webp')">Phonotheca</button>
+                                        <button onclick="document.location='#'" class="datapad__btn" onmouseenter="changeImg('img/fm_gallery.webp')">Galeria</button>
+                                    </div>
+                                    <div class="datapad__menu__mobile">
+                                        <button onclick="document.location='librarium/index.html'" class="datapad__btn">Librarium</button>
+                                        <button onclick="document.location='phonotheca/index.html'" class="datapad__btn">Phonotheca</button>
+                                        <button onclick="document.location='#'" class="datapad__btn">Galeria</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="page__text">
+                                <p><span></span></p>
+                                <p>Добро пожаловать в отдел литературы и искусств, джентельство! Корианское правительство традиционно уделяет большое внимание духовному развитию своего народа, всячески благопоспешествуя размножению хранилищ знаний и пополнению их фондов. Отсюда вы можете получить удаленный гостевой доступ в Большую Вашрах-Резварскую Библиотеку, ознакомившись с ее богатейшей коллекцией материалов. В разделе <q>Галерея</q> представлены голографические изображения предметов искусства и различных меморабилий.</p>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </main>
+        <templ-footer></templ-footer>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
