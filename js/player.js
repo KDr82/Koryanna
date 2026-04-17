@@ -10,6 +10,7 @@ const tracks = [
   { title: "Imperial Reaper", src: "NOV/09.m4a", duration: "3:29" },
   { title: "Final Strike", src: "NOV/10.m4a", duration: "3:37" },
   { title: "Agate Into Splinters", src: "NOV/11.m4a", duration: "3:07" },
+  { title: "Way of Goddess", src: "NOV/14.m4a", duration: "3:38" },
   { title: "Eternal Purge (Kaine Cover)", src: "NOV/12.m4a", duration: "5:50" },
   { title: "Martyr Ishin (Denarii Cover)", src: "NOV/13.m4a", duration: "4:23" },
 ];
