@@ -2,76 +2,76 @@ class JavaHeader extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
         <header class="header">
-            <div class="header__logo"><a href="index.html" alt="Home"></a></div>
+            <div class="header__logo"><a href="https://koriana.neocities.org/" alt="Home"></a></div>
             <div class="header__menu__l">
-                    <button type="button" class="button__menu" onclick="document.location='nuntia/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/nuntia/index.html'">
                         <div class="button__menu-top">Nuntia</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='sodalitas/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/sodalitas/index.html'">
                         <div class="button__menu-top">Sodalitas</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='apopsis/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/apopsis/index.html'">
                         <div class="button__menu-top">Apopsis</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='regnum/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/regnum/index.html'">
                         <div class="button__menu-top">Regnum</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='pandektes/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/pandektes/index.html'">
                         <div class="button__menu-top">Pandektes</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='cultura.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/cultura.html'">
                         <div class="button__menu-top">Cultura</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='civitas.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/civitas.html'">
                         <div class="button__menu-top">Civitas</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
             </div>
             <div class="header__menu__m">
-                    <button type="button" class="button__menu" onclick="document.location='nuntia/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/nuntia/index.html'">
                         <div class="button__menu-top">Nuntia</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='sodalitas/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/sodalitas/index.html'">
                         <div class="button__menu-top">Sodalitas</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='apopsis/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/apopsis/index.html'">
                         <div class="button__menu-top">Apopsis</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='regnum/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/regnum/index.html'">
                         <div class="button__menu-top">Regnum</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='pandektes/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/pandektes/index.html'">
                         <div class="button__menu-top">Pandektes</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='cultura.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/cultura.html'">
                         <div class="button__menu-top">Cultura</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='civitas.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/civitas.html'">
                         <div class="button__menu-top">Civitas</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
@@ -86,62 +86,62 @@ class JavaHeader extends HTMLElement {
             </div>
             <nav class="navbar">
                 <ul class="navbar__list">
-                    <li><a href="nuntia/index.html" class="navbar__link">Nuntia</a></li>
-                    <li><a href="sodalitas/index.html" class="navbar__link">Sodalitas</a>
+                    <li><a href="https://koriana.neocities.org/nuntia/index.html" class="navbar__link">Nuntia</a></li>
+                    <li><a href="https://koriana.neocities.org/sodalitas/index.html" class="navbar__link">Sodalitas</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
-                            <li><a href="sodalitas/about_us.html" class="navbar__sublink">De Sodalitatis</a></li>
-                            <li><a href="sodalitas/administration.html" class="navbar__sublink">Administratio</a></li>
-                            <li><a href="sodalitas/legislation.html" class="navbar__sublink">Lex</a></li>
-                            <li><a href="sodalitas/dignitatum/index.html" class="navbar__sublink">Notitia Dignitatum</a></li>
+                            <li><a href="https://koriana.neocities.org/sodalitas/about_us.html" class="navbar__sublink">De Sodalitatis</a></li>
+                            <li><a href="https://koriana.neocities.org/sodalitas/administration.html" class="navbar__sublink">Administratio</a></li>
+                            <li><a href="https://koriana.neocities.org/sodalitas/legislation.html" class="navbar__sublink">Lex</a></li>
+                            <li><a href="https://koriana.neocities.org/sodalitas/dignitatum/index.html" class="navbar__sublink">Notitia Dignitatum</a></li>
                         </ul>
                     </li>
-                    <li><a href="apopsis/index.html" class="navbar__link">Apopsis</a>
+                    <li><a href="https://koriana.neocities.org/apopsis/index.html" class="navbar__link">Apopsis</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
-                            <li><a href="apopsis/methodology.html" class="navbar__sublink">Methodologia</a></li>
-                            <li><a href="apopsis/articles.html" class="navbar__sublink">Articuli</a></li>
-                            <li><a href="apopsis/polemics.html" class="navbar__sublink">Polemikos</a></li>
+                            <li><a href="https://koriana.neocities.org/apopsis/methodology.html" class="navbar__sublink">Methodologia</a></li>
+                            <li><a href="https://koriana.neocities.org/apopsis/articles.html" class="navbar__sublink">Articuli</a></li>
+                            <li><a href="https://koriana.neocities.org/apopsis/polemics.html" class="navbar__sublink">Polemikos</a></li>
                         </ul>
                     </li>
-                    <li><a href="regnum/index.html" class="navbar__link">Regnum</a>
+                    <li><a href="https://koriana.neocities.org/regnum/index.html" class="navbar__link">Regnum</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
-                            <li><a href="regnum/hist_koryanna.html" class="navbar__sublink">Historia Coriannae</a></li>
-                            <li><a href="regnum/hist_igf.html" class="navbar__sublink">Historia Praetorianae</a></li>
-                            <li><a href="regnum/government.html" class="navbar__sublink">Rectio</a></li>
-                            <li><a href="regnum/high_command.html" class="navbar__sublink">Praetorium</a></li>
-                            <li><a href="regnum/economy.html" class="navbar__sublink">Oeconomia</a></li>
+                            <li><a href="https://koriana.neocities.org/regnum/hist_koryanna.html" class="navbar__sublink">Historia Coriannae</a></li>
+                            <li><a href="https://koriana.neocities.org/regnum/hist_igf.html" class="navbar__sublink">Historia Praetorianae</a></li>
+                            <li><a href="https://koriana.neocities.org/regnum/government.html" class="navbar__sublink">Rectio</a></li>
+                            <li><a href="https://koriana.neocities.org/regnum/high_command.html" class="navbar__sublink">Praetorium</a></li>
+                            <li><a href="https://koriana.neocities.org/regnum/economy.html" class="navbar__sublink">Oeconomia</a></li>
                         </ul>
                     </li>
-                    <li><a href="pandektes/index.html" class="navbar__link">Pandektes</a>
+                    <li><a href="https://koriana.neocities.org/pandektes/index.html" class="navbar__link">Pandektes</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
-                            <li><a href="pandektes/astrography/index.html" class="navbar__sublink">Astrographia</a></li>
-                            <li><a href="pandektes/astropolitics/index.html" class="navbar__sublink">Astropolitika</a></li>
-                            <li><a href="pandektes/documents/index.html" class="navbar__sublink">Documenta</a></li>
-                            <li><a href="pandektes/gme/index.html" class="navbar__sublink">Magnum Lexicon Militare</a></li>
-                            <li><a href="pandektes/linguistics/index.html" class="navbar__sublink">Linguisticus et Cultura</a></li>
-                            <li><a href="pandektes/mysticism/index.html" class="navbar__sublink">Mystica</a></li>
-                            <li><a href="pandektes/prosopography/index.html" class="navbar__sublink">Prosopographia</a></li>
-                            <li><a href="pandektes/technopedia/index.html" class="navbar__sublink">Technopaedia</a></li>
-                            <li><a href="pandektes/uniformology/index.html" class="navbar__sublink">Uniformologia</a></li>
-                            <li><a href="pandektes/chronology/index.html" class="navbar__sublink">Chronologia</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/astrography/index.html" class="navbar__sublink">Astrographia</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/astropolitics/index.html" class="navbar__sublink">Astropolitika</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/documents/index.html" class="navbar__sublink">Documenta</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/gme/index.html" class="navbar__sublink">Magnum Lexicon Militare</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/linguistics/index.html" class="navbar__sublink">Linguisticus et Cultura</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/mysticism/index.html" class="navbar__sublink">Mystica</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/prosopography/index.html" class="navbar__sublink">Prosopographia</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/technopedia/index.html" class="navbar__sublink">Technopaedia</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/uniformology/index.html" class="navbar__sublink">Uniformologia</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/chronology/index.html" class="navbar__sublink">Chronologia</a></li>
                         </ul>
                     </li>
-                    <li><a href="cultura.html" class="navbar__link">Cultura</a>
+                    <li><a href="https://koriana.neocities.org/cultura.html" class="navbar__link">Cultura</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
-                            <li><a href="librarium/index.html" class="navbar__sublink">Librarium</a></li>
-                            <li><a href="phonotheca/index.html" class="navbar__sublink">Phonotheca</a></li>
+                            <li><a href="https://koriana.neocities.org/librarium/index.html" class="navbar__sublink">Librarium</a></li>
+                            <li><a href="https://koriana.neocities.org/phonotheca/index.html" class="navbar__sublink">Phonotheca</a></li>
                             <li><a href="#" class="navbar__sublink">Galeria</a></li>
                         </ul>
                     </li>
-                    <li><a href="civitas.html" class="navbar__link">Civitas</a>
+                    <li><a href="https://koriana.neocities.org/civitas.html" class="navbar__link">Civitas</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
                             <li><a href="#" class="navbar__sublink">Forum</a></li>
-                            <li><a href="links.html" class="navbar__sublink">Nexus</a></li>
+                            <li><a href="https://koriana.neocities.org/links.html" class="navbar__sublink">Nexus</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -154,76 +154,76 @@ class JavaHeaderone extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
         <header class="header">
-            <div class="header__logo"><a href="/index.html" alt="Home"></a></div>
+            <div class="header__logo"><a href="https://koriana.neocities.org/index.html" alt="Home"></a></div>
             <div class="header__menu__l">
-                    <button type="button" class="button__menu" onclick="document.location='/nuntia/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/nuntia/index.html'">
                         <div class="button__menu-top">Nuntia</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/sodalitas/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/sodalitas/index.html'">
                         <div class="button__menu-top">Sodalitas</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/apopsis/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/apopsis/index.html'">
                         <div class="button__menu-top">Apopsis</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/regnum/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/regnum/index.html'">
                         <div class="button__menu-top">Regnum</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/pandektes/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/pandektes/index.html'">
                         <div class="button__menu-top">Pandektes</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/cultura.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/cultura.html'">
                         <div class="button__menu-top">Cultura</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/civitas.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/civitas.html'">
                         <div class="button__menu-top">Civitas</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
             </div>
             <div class="header__menu__m">
-                    <button type="button" class="button__menu" onclick="document.location='/nuntia/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/nuntia/index.html'">
                         <div class="button__menu-top">Nuntia</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/sodalitas/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/sodalitas/index.html'">
                         <div class="button__menu-top">Sodalitas</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/apopsis/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/apopsis/index.html'">
                         <div class="button__menu-top">Apopsis</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/regnum/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/regnum/index.html'">
                         <div class="button__menu-top">Regnum</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/pandektes/index.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/pandektes/index.html'">
                         <div class="button__menu-top">Pandektes</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/cultura.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/cultura.html'">
                         <div class="button__menu-top">Cultura</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
                     </button>
-                    <button type="button" class="button__menu" onclick="document.location='/civitas.html'">
+                    <button type="button" class="button__menu" onclick="document.location='https://koriana.neocities.org/civitas.html'">
                         <div class="button__menu-top">Civitas</div>
                         <div class="button__menu-bottom"></div>
                         <div class="button__menu-base"></div>
@@ -238,62 +238,62 @@ class JavaHeaderone extends HTMLElement {
             </div>
             <nav class="navbar">
                 <ul class="navbar__list">
-                    <li><a href="/nuntia/index.html" class="navbar__link">Nuntia</a></li>
-                    <li><a href="/sodalitas/index.html" class="navbar__link">Sodalitas</a>
+                    <li><a href="https://koriana.neocities.org/nuntia/index.html" class="navbar__link">Nuntia</a></li>
+                    <li><a href="https://koriana.neocities.org/sodalitas/index.html" class="navbar__link">Sodalitas</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
-                            <li><a href="/sodalitas/about_us.html" class="navbar__sublink">De Sodalitatis</a></li>
-                            <li><a href="/sodalitas/administration.html" class="navbar__sublink">Administratio</a></li>
-                            <li><a href="/sodalitas/legislation.html" class="navbar__sublink">Lex</a></li>
-                            <li><a href="/sodalitas/dignitatum/index.html" class="navbar__sublink">Notitia Dignitatum</a></li>
+                            <li><a href="https://koriana.neocities.org/sodalitas/about_us.html" class="navbar__sublink">De Sodalitatis</a></li>
+                            <li><a href="https://koriana.neocities.org/sodalitas/administration.html" class="navbar__sublink">Administratio</a></li>
+                            <li><a href="https://koriana.neocities.org/sodalitas/legislation.html" class="navbar__sublink">Lex</a></li>
+                            <li><a href="https://koriana.neocities.org/sodalitas/dignitatum/index.html" class="navbar__sublink">Notitia Dignitatum</a></li>
                         </ul>
                     </li>
-                    <li><a href="/apopsis/index.html" class="navbar__link">Apopsis</a>
+                    <li><a href="https://koriana.neocities.org/apopsis/index.html" class="navbar__link">Apopsis</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
-                            <li><a href="/apopsis/methodology.html" class="navbar__sublink">Methodologia</a></li>
-                            <li><a href="/apopsis/articles.html" class="navbar__sublink">Articuli</a></li>
-                            <li><a href="/apopsis/polemics.html" class="navbar__sublink">Polemikos</a></li>
+                            <li><a href="https://koriana.neocities.org/apopsis/methodology.html" class="navbar__sublink">Methodologia</a></li>
+                            <li><a href="https://koriana.neocities.org/apopsis/articles.html" class="navbar__sublink">Articuli</a></li>
+                            <li><a href="https://koriana.neocities.org/apopsis/polemics.html" class="navbar__sublink">Polemikos</a></li>
                         </ul>
                     </li>
-                    <li><a href="/regnum/index.html" class="navbar__link">Regnum</a>
+                    <li><a href="https://koriana.neocities.org/regnum/index.html" class="navbar__link">Regnum</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
-                            <li><a href="/regnum/hist_koryanna.html" class="navbar__sublink">Historia Coriannae</a></li>
-                            <li><a href="/regnum/hist_igf.html" class="navbar__sublink">Historia Praetorianae</a></li>
-                            <li><a href="/regnum/government.html" class="navbar__sublink">Rectio</a></li>
-                            <li><a href="/regnum/high_command.html" class="navbar__sublink">Praetorium</a></li>
-                            <li><a href="/regnum/economy.html" class="navbar__sublink">Oeconomia</a></li>
+                            <li><a href="https://koriana.neocities.org/regnum/hist_koryanna.html" class="navbar__sublink">Historia Coriannae</a></li>
+                            <li><a href="https://koriana.neocities.org/regnum/hist_igf.html" class="navbar__sublink">Historia Praetorianae</a></li>
+                            <li><a href="https://koriana.neocities.org/regnum/government.html" class="navbar__sublink">Rectio</a></li>
+                            <li><a href="https://koriana.neocities.org/regnum/high_command.html" class="navbar__sublink">Praetorium</a></li>
+                            <li><a href="https://koriana.neocities.org/regnum/economy.html" class="navbar__sublink">Oeconomia</a></li>
                         </ul>
                     </li>
-                    <li><a href="/pandektes/index.html" class="navbar__link">Pandektes</a>
+                    <li><a href="https://koriana.neocities.org/pandektes/index.html" class="navbar__link">Pandektes</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
-                            <li><a href="/pandektes/astrography/index.html" class="navbar__sublink">Astrographia</a></li>
-                            <li><a href="/pandektes/astropolitics/index.html" class="navbar__sublink">Astropolitika</a></li>
-                            <li><a href="/pandektes/documents/index.html" class="navbar__sublink">Documenta</a></li>
-                            <li><a href="/pandektes/gme/index.html" class="navbar__sublink">Magnum Lexicon Militare</a></li>
-                            <li><a href="/pandektes/linguistics/index.html" class="navbar__sublink">Linguisticus et Cultura</a></li>
-                            <li><a href="/pandektes/mysticism/index.html" class="navbar__sublink">Mystica</a></li>
-                            <li><a href="/pandektes/prosopography/index.html" class="navbar__sublink">Prosopographia</a></li>
-                            <li><a href="/pandektes/technopedia/index.html" class="navbar__sublink">Technopaedia</a></li>
-                            <li><a href="/pandektes/uniformology/index.html" class="navbar__sublink">Uniformologia</a></li>
-                            <li><a href="/pandektes/chronology/index.html" class="navbar__sublink">Chronologia</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/astrography/index.html" class="navbar__sublink">Astrographia</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/astropolitics/index.html" class="navbar__sublink">Astropolitika</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/documents/index.html" class="navbar__sublink">Documenta</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/gme/index.html" class="navbar__sublink">Magnum Lexicon Militare</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/linguistics/index.html" class="navbar__sublink">Linguisticus et Cultura</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/mysticism/index.html" class="navbar__sublink">Mystica</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/prosopography/index.html" class="navbar__sublink">Prosopographia</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/technopedia/index.html" class="navbar__sublink">Technopaedia</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/uniformology/index.html" class="navbar__sublink">Uniformologia</a></li>
+                            <li><a href="https://koriana.neocities.org/pandektes/chronology/index.html" class="navbar__sublink">Chronologia</a></li>
                         </ul>
                     </li>
-                    <li><a href="/cultura.html" class="navbar__link">Cultura</a>
+                    <li><a href="https://koriana.neocities.org/cultura.html" class="navbar__link">Cultura</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
-                            <li><a href="/librarium/index.html" class="navbar__sublink">Librarium</a></li>
-                            <li><a href="/phonotheca/index.html" class="navbar__sublink">Phonotheca</a></li>
+                            <li><a href="https://koriana.neocities.org/librarium/index.html" class="navbar__sublink">Librarium</a></li>
+                            <li><a href="https://koriana.neocities.org/phonotheca/index.html" class="navbar__sublink">Phonotheca</a></li>
                             <li><a href="#" class="navbar__sublink">Galeria</a></li>
                         </ul>
                     </li>
-                    <li><a href="/civitas.html" class="navbar__link">Civitas</a>
+                    <li><a href="https://koriana.neocities.org/civitas.html" class="navbar__link">Civitas</a>
                         <span class="navbar__arrow"></span>
                         <ul class="navbar__sublist">
                             <li><a href="#" class="navbar__sublink">Forum</a></li>
-                            <li><a href="/links.html" class="navbar__sublink">Nexus</a></li>
+                            <li><a href="https://koriana.neocities.org/links.html" class="navbar__sublink">Nexus</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -314,7 +314,7 @@ class JavaFooter extends HTMLElement {
                 <div class="disclaimer__mob__u"><p>© Корианской империи.</p></div>
             </div>
             <div class="footer__md">
-                <div class="footer__disclaimer"><a href="disclaimer.html">Disclaimer</a></div>
+                <div class="footer__disclaimer"><a href="https://koriana.neocities.org/disclaimer.html">Disclaimer</a></div>
                 <div class="footer__visuals">
                     <div class="footer__logo"><img src="img/footer__logo.webp"></div>
                     <div class="footer__logo__s"><img src="img/footer__logo__s.webp"></div>
@@ -342,7 +342,7 @@ class JavaFooterone extends HTMLElement {
                 <div class="disclaimer__mob__u"><p>© Корианской империи.</p></div>
             </div>
             <div class="footer__md">
-                <div class="footer__disclaimer"><a href="/disclaimer.html">Disclaimer</a></div>
+                <div class="footer__disclaimer"><a href="https://koriana.neocities.org/disclaimer.html">Disclaimer</a></div>
                 <div class="footer__visuals">
                     <div class="footer__logo"><img src="/img/footer__logo.webp"></div>
                     <div class="footer__logo__s"><img src="/img/footer__logo__s.webp"></div>
