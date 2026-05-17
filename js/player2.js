@@ -10,7 +10,7 @@ const tracks = [
   { title: "City of Bone", src: "BOM/09.m4a", duration: "3:16" },
   { title: "Martyr Ishin (Denarii Cover)", src: "BOM/10.m4a", duration: "4:23" },
   { title: "Cherry Blossoms", src: "BOM/11.m4a", duration: "3:58" },
-  { title: "Eternal Purge (Kaine Cover)", src: "BOM/12.m4a", duration: "4:43" },
+  { title: "Blood of Martyrs (SAG Cover)", src: "BOM/12.m4a", duration: "4:43" },
   { title: "Cherry Blossoms (SAG Cover)", src: "BOM/13.m4a", duration: "4:00" },
 ];
 
